@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityamp3
 - 👀 I’m design Web Applications for individuals and Start-ups.
-- 🌱 I’m currently learning dynamic web flow.
+- 🌱 I’m currently practising competitive coding.
 - 💞️ I’m looking to collaborate on some small projects for starting.
 - 📫 How to reach me - dealwithaditya@gmail.com
 
